@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Catalog Update"
+  short_description: "Run daily catalog population and refresh for models, harnesses, services, and gateways"
+  default_prompt: "Use $ai-catalog-update to discover, verify, and draft new entities or revisions for the HiQS AI Resolve catalog."
