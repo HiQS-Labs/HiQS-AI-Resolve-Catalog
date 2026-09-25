@@ -102,7 +102,8 @@ future claims and causes of action), in the Work (i) in all territories
 worldwide, (ii) for the maximum duration provided by applicable law or
 treaty (including future time extensions), (iii) in any current or future
 medium and for any number of copies, and (iv) for any purpose whatsoever,
-including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
+including without limitation commercial, advertising or promotional
+purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each
 member of the public at large and to the detriment of Affirmer's heirs and
 successors, fully intending that such Waiver shall not be subject to
 revocation, rescission, cancellation, termination, or any other legal or
@@ -111,7 +112,7 @@ as contemplated by Affirmer's express Statement of Purpose.
 
 3. Public License Fallback. Should any part of the Waiver for any reason
 be judged legally invalid or ineffective under applicable law, then the
-Waiver shall be preserved to the maximum extent permit
+Waiver shall be preserved to the maximum extent permitted taking into
 account Affirmer's express Statement of Purpose. In addition, to the
 extent the Waiver is so judged Affirmer hereby grants to each affected
 person a royalty-free, non transferable, non sublicensable, non exclusive,
